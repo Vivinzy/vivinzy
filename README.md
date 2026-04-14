@@ -5,8 +5,7 @@
 ### 🧑‍🎓 Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas no SENAI
-- 🖥️ Experiência com Power Apps, SharePoint e Power Automate
-- 🌐 Criando projetos de sites e aplicativos para estudos e portfólio
+- 🌐 Criando projetos de sites e aplicativos para estudos
 
 ---
 
@@ -29,4 +28,4 @@
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](www.linkedin.com/in/vitória-nunes-pereira-39a3b9211)
