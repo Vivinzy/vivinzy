@@ -28,4 +28,4 @@
 
 ### 📫 Contato
 
-[![LinkedIn](www.linkedin.com/in/vitória-nunes-pereira-39a3b9211)
+[![LinkedIn]([www.linkedin.com/in/vitória-nunes-pereira-39a3b9211])
