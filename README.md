@@ -22,7 +22,7 @@
 
 ### 📊 Animação dos commits
 
-(![Sanrio](./sanrio-animation.svg))
+![Sanrio](./Downloads/sanrio_animation.gif)
 
 ---
 
