@@ -8,6 +8,7 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI (3º semestre) e atuo como
 # 💻 Tech Stack:
 ![JavaScript](https://shields.io) ![PHP](https://shields.io) ![Python](https://shields.io) ![HTML5](https://shields.io) ![NodeJS](https://shields.io) ![Trello](https://shields.io) ![Power Bi](https://shields.io) ![GitHub](https://shields.io) ![Canva](https://shields.io) ![Figma](https://shields.io) ![Adobe Photoshop](https://shields.io) ![Adobe](https://shields.io) ![MySQL](https://shields.io) ![Laravel](https://shields.io) ![Flutter](https://shields.io)
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Vivinzy&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Vivinzy&theme=aura&hide_border=false)<br/>
